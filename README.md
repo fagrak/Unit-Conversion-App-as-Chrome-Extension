@@ -1,8 +1,5 @@
-# Chrome-extension
+# Unit-Conversion-App-as-Chrome-extension
 
-Created with CodeSandbox
+## This app idea is from the Scrimba JS course. 
 
-save all your urls in this extension.
-
-## Learned from this project
-<img width="560" alt="chrome-extension" src="https://user-images.githubusercontent.com/16033280/142821431-bd1253e8-1ab8-4cc2-a70f-75fed0b889b7.png">
+![image](https://user-images.githubusercontent.com/63971790/201500451-bac5bb7f-e454-40c3-9aa4-c4fb5f6da59d.png)
